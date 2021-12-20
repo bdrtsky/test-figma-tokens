@@ -1456,19 +1456,5 @@
       "value": "none",
       "type": "textDecoration"
     }
-  },
-  "TestRed": {
-    "test": {
-      "value": "#ff0000",
-      "type": "color"
-    }
-  },
-  "colors": {
-    "test-red": {
-      "test": {
-        "value": "#ff0000",
-        "type": "color"
-      }
-    }
   }
 }
